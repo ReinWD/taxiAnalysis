@@ -1,5 +1,5 @@
 # taxiAnalysis
-2018-Cloud computing and big dita course
+2018-Cloud computing and big data course
 
 ## 描述
 使用Spark & Hadoop 分析GPS数据的小程序
